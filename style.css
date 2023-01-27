@@ -228,7 +228,6 @@ p{
 
 .p4{
   color: rgb(0, 0, 0);
-  text-align: center;
   font-size: 16px;
   text-align: left;
   padding-left: 50px;
@@ -307,6 +306,22 @@ p{
   vertical-align: middle;
   width: 17px;
   margin-right: 6px;
+}
+
+#loga
+{
+margin-right: 10px;
+text-align: center;
+  
+}
+
+.p9{
+  color: rgb(0, 0, 0);
+  font-size: 22px;
+  text-align: left;
+  padding-left: 40px;
+  padding-right: 20px;
+  padding-bottom: 40px;
 }
 
 
@@ -640,7 +655,16 @@ p{
   border-radius: 50%;
   background: linear-gradient(180deg, #FF0000 0%, rgba(255, 0, 0, 0) 100%);
   }
-
+  #loga
+  {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    width: 860px;
+    margin-bottom: 40px;
+  }
+  
 
   
   
